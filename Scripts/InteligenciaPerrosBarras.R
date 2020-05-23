@@ -1,3 +1,6 @@
+# Dia 1 de 30 dias de graficos de barras/columnas
+# Grafico basado en datos de Data World sobre inteligencia canina
+
 # Bibliotecas ---------------------------------------------------------------
 library(tidyverse)
 
