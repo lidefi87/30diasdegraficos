@@ -17,7 +17,7 @@ DogInt <- read.csv("https://download.data.world/s/uke5bpgyb7nanjxc5egpho4egzxnjd
 
 # Graficos ----------------------------------------------------------------
 # Inteligencia y peso
-DogInt %>%
+Graf1 <- DogInt %>%
   #Histograma con datos divididos cada 10 libras
   ggplot(aes(avgWeight))+geom_histogram(aes(fill = Classification), binwidth = 10)+
   #Cambiando titulos de ejes
@@ -28,5 +28,6 @@ DogInt %>%
   theme(legend.position = "top")+
   #Dividiendo la leyenda en dos columnas y poniendo el titulo en la parte superior de la leyenda 
   guides(fill = guide_legend(ncol = 2, title.position = "top"))
+Graf1
 
-
+ggsave("Outputs/Grafico1Barra.png", Graf1, device = "png", dpi = 300)
