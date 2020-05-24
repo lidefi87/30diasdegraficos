@@ -14,3 +14,6 @@ Dia 4 - Gráfico de lineas con Facetas utilizando datos del Global Shark Attack 
 
 Dia 5 - Diagrama de arco con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)
 ![Day 5 - Emigracion de Galapagueños en el 2015](Outputs/Grafico5Arco.png) 
+
+Dia 6 - Diagrama de arco con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
+[Day 6 - Poblacion de Galapagos en el 2015](./Outputs/Grafico6Donas.html) 
