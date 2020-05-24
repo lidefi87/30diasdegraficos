@@ -8,3 +8,7 @@ Dia 2 - Gráfico de lineas utilizando datos del World Happiness Report 2019
 
 Dia 3 - Gráfico de burbujas utilizando datos del World Happiness Report 2019  
 ![Day 3 - Felicidad y Expectativa de vida vs Producto Interno Bruto 2018](Outputs/Grafico3Burbujas.png)  
+
+Dia 4 - Gráfico de lineas con Facetas del Global Shark Attack File (GSAF)    
+![Day 4 - Encuentros con tiburones entre el 2010 y 2020](Outputs/Grafico4conFacetas.png) 
+
