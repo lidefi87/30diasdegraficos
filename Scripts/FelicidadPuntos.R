@@ -15,6 +15,7 @@ region <- openxlsx::read.xlsx("../Datos/PaisesRegionesMundo.xlsx")
 
 #Extrayendo datos para todos los países del 2018
 Fel2018 <- felicidad %>% filter(anio == 2018) %>% 
+  #Removiendo tildes
   mutate(pais = stringi::stri_trans_general(pais, "Latin-ASCII")) %>% 
   #Uniendo resultados del filtro con datos sobre regiones del mundo para producir grafico
   left_join(region %>% select(País, Continente), by = c("pais" = "País")) %>% 
