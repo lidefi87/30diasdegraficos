@@ -35,9 +35,10 @@ TibuEncu <- readxl::read_excel("../Datos/SharkEncountersData.xlsx", range = "A1:
 g1 <- TibuEncu %>% ggplot(aes(x = year, y = N, group = country))+
   facet_grid(type~fatal_y_n, scales = "free_y")+
   geom_point(aes(color = country))+
+  labs(y = "")+
   geom_line(aes(color = country))+
   scale_color_brewer(palette = "Paired", name = "Countries")+
-  theme(legend.position = "top")+
+  theme(legend.position = "top", axis.text.x = element_text(angle = 90))+
   guides(colour = guide_legend(ncol = 3, title.position = "top"))
 
 ggsave("Outputs/Grafico4conFacetas.png", g1, device = "png", dpi = 300)
