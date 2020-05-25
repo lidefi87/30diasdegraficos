@@ -28,3 +28,6 @@ Dia 8 - Grafico de contorno con datos de CTD obtenidos en el 2017
 
 Dia 9 - Grafico de areas apiladas con datos del Global Shark Attack File (GSAF) 
 ![Day 9 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico9Apilados.png)  
+
+Dia 10 - Explorando paletas de colores (unikn) con datos del Global Shark Attack File (GSAF) 
+![Day 10 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico10ExplorandoPaletas.png)  
