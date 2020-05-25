@@ -1,14 +1,3 @@
-time <- as.numeric(rep(seq(1,7),each=7))  # x Axis
-value <- runif(49, 10, 100)               # y Axis
-group <- rep(LETTERS[1:7],times=7)        # group, one shape per group
-data <- data.frame(time, value, group)
-
-library(tidyverse)
-ggplot(data, aes(x=time, y=value, fill=group)) + 
-  geom_area()
-
-
-
 # Dia 9 de 30 dias de graficos - Graficos de areas apiladas
 # Grafico basado en datos de Global Shark Attack File (GSAF)
 
