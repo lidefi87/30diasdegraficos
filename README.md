@@ -22,3 +22,6 @@ Ejemplo de diagrama presentado abajo
 
 Dia 7 - Grafico ridgeline con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
 ![Day 7 - Distribucion de edades en Galapagos en el 2015](Outputs/Grafico7Ridgeline.png)  
+
+Dia 8 - Grafico de contorno con datos de CTD obtenidos en el 2017
+![Day 8 - Variacion de temperatura y salinidad con profundidad](Outputs/Grafico8Contornos.png)  
