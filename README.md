@@ -16,12 +16,15 @@ Dia 5 - Diagrama de arco con datos INEC (Instituto Nacional de Estadistica y Cen
 ![Day 5 - Emigracion de Galapagueños en el 2015](Outputs/Grafico5Arco.png) 
 
 Dia 6 - Diagrama interactivo de arco con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
-Ejemplo de diagrama presentado abajo  
+Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de figura.
 ![Day 6 - Poblacion de Galapagos en el 2015 (ejemplo solamente)](Outputs/Grafico6Donas.png)
 [Grafico interactivo disponible aqui]('./Outputs/Grafico6Donas.html')  
 
 Dia 7 - Grafico ridgeline con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
 ![Day 7 - Distribucion de edades en Galapagos en el 2015](Outputs/Grafico7Ridgeline.png)  
 
-Dia 8 - Grafico de contorno con datos de CTD obtenidos en el 2017
+Dia 8 - Grafico de contorno con datos de CTD obtenidos en el 2017  
 ![Day 8 - Variacion de temperatura y salinidad con profundidad](Outputs/Grafico8Contornos.png)  
+
+Dia 9 - Grafico de areas apiladas con datos del Global Shark Attack File (GSAF) 
+![Day 9 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico9Apilados.png)  
