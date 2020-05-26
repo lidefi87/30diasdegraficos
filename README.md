@@ -37,3 +37,6 @@ Dia 11 - Mapa de calor con datos INEC (Instituto Nacional de Estadistica y Censo
 
 Dia 12 - Grafico de paleta con datos del World Happiness Report 2019  
 ![Day 12 - Comparacion de expectativa de vida en paises americanos y europeos en el 2018](Outputs/Grafico12Paletas.png)  
+
+Dia 13 - Visualizacion de datos temporales de casos confirmados de COVID-19 del Our world in Data
+![Day 13 - Casos confirmados de COVID-19 a nivel mundial (A) y en America del Sur desde inicio de la pandemia en diciembre 2019](Outputs/Grafico13VisTemp.png)  
