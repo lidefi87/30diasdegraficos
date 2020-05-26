@@ -34,3 +34,6 @@ Dia 10 - Explorando paletas de colores (unikn) con datos del Global Shark Attack
 
 Dia 11 - Mapa de calor con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
 ![Day 11 - Comparacion de acceso educativa en areas rurales y urbanas de Galapagos en el 2015](Outputs/Grafico11MapaCalor.png)  
+
+Dia 12 - Grafico de paleta con datos del World Happiness Report 2019  
+![Day 12 - Comparacion de expectativa de vida en paises americanos y europeos en el 2018](Outputs/Grafico12Paletas.png)  
