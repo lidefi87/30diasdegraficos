@@ -33,7 +33,7 @@ Dia 10 - Explorando paletas de colores (unikn) con datos del Global Shark Attack
 ![Day 10 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico10ExplorandoPaletas.png)  
 
 Dia 11 - Mapa de calor con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
-![Day 11 - Comparacion de acceso educativo en areas rurales y urbanas de Galapagos en el 2015](Outputs/Grafico11MapaCalor.png)  
+![Day 11 - Comparacion de acceso educativo de adultos en areas rurales y urbanas de Galapagos en el 2015](Outputs/Grafico11MapaCalor.png)  
 
 Dia 12 - Grafico de paleta con datos del World Happiness Report 2019  
 ![Day 12 - Comparacion de expectativa de vida en paises americanos y europeos en el 2018](Outputs/Grafico12Paletas.png)  
@@ -42,4 +42,7 @@ Dia 13 - Visualizacion de datos temporales de casos confirmados de COVID-19 del 
 ![Day 13 - Casos confirmados de COVID-19 a nivel mundial (A) y en America del Sur (B) desde inicio de la pandemia en diciembre 2019](Outputs/Grafico13VisTemp.png)  
 
 Dia 14 - Graficos de rectangulo con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador) 
-![Day 14 - Comparacion de nivel educativo por sexo entre areas rurales y urbanas de las Galapagos (2015)](Outputs/Grafico14Rectangulos.png)  
+![Day 14 - Comparacion de nivel educativo de adultos por sexo entre areas rurales y urbanas de las Galapagos (2015)](Outputs/Grafico14Rectangulos.png)  
+
+Dia 15 - Dendrograma utilizando datos de peces de manglar de Galapagos
+![Day 15 - Dendrograma de comunidades de peces de manglar de Galapagos](Outputs/Grafico15Dendrograma.png)  
