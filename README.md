@@ -31,3 +31,6 @@ Dia 9 - Grafico de areas apiladas con datos del Global Shark Attack File (GSAF)
 
 Dia 10 - Explorando paletas de colores (unikn) con datos del Global Shark Attack File (GSAF) 
 ![Day 10 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico10ExplorandoPaletas.png)  
+
+Dia 11 - Mapa de calor con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)  
+![Day 11 - Comparacion de acceso educativa en areas rurales y urbanas de Galapagos en el 2015](Outputs/Grafico11MapaCalor.png)  
