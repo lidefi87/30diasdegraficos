@@ -52,5 +52,5 @@ Dia 16 - Grafico de waffle con datos INEC (Instituto Nacional de Estadistica y C
 
 Dia 17 - Diagrama interactivo de sankey con datos de censos de peces de manglar de Galapagos
 Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de figura.
-![Day 17 - Composicion de poblacion de peces por sitio muestreado](Outputs/Grafico17Sankey.png)
+![Day 17 - Composicion de poblacion de peces por sitio muestreado](Outputs/Grafico17Sankey.PNG)
 [Grafico interactivo disponible aqui]('./Outputs/Grafico17Sankey.html')  
