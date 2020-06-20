@@ -41,8 +41,11 @@ Dia 12 - Grafico de paleta con datos del World Happiness Report 2019
 Dia 13 - Visualizacion de datos temporales de casos confirmados de COVID-19 del Our world in Data
 ![Day 13 - Casos confirmados de COVID-19 a nivel mundial (A) y en America del Sur (B) desde inicio de la pandemia en diciembre 2019](Outputs/Grafico13VisTemp.png)  
 
-Dia 14 - Graficos de rectangulo con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador) 
+Dia 14 - Grafico de rectangulo con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador) 
 ![Day 14 - Comparacion de nivel educativo de adultos por sexo entre areas rurales y urbanas de las Galapagos (2015)](Outputs/Grafico14Rectangulos.png)  
 
 Dia 15 - Dendrograma utilizando datos de peces de manglar de Galapagos
 ![Day 15 - Dendrograma de comunidades de peces de manglar de Galapagos](Outputs/Grafico15Dendrograma.png)  
+
+Dia 16 - Grafico de waffle con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador) 
+![Day 14 - Comparacion de nivel educativo de adultos entre 20 y 30 anios entre generos, y areas rurales y urbanas de las Galapagos (2015)](Outputs/Grafico16Waffles.png)  
