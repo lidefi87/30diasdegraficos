@@ -5,6 +5,7 @@
 # Bibliotecas ---------------------------------------------------------------
 library(tidyverse)
 library(waffle)
+library(RColorBrewer)
 
 # Datos -------------------------------------------------------------------
 PobGps <- read.csv("../Datos/CensoPoblacionGalapagos2015/Poblacion_CPVG15_AT.csv", sep = ";") %>% 
@@ -16,26 +17,26 @@ PobGps <- read.csv("../Datos/CensoPoblacionGalapagos2015/Poblacion_CPVG15_AT.csv
   #Renombrando columnas
   rename("edad" = "p01", "sexo" = "psexo", "nivelEdu" = "p09") %>% 
   #Seleccionando a personas de 20 anios o mas
-  filter(edad >= 20) %>% 
+  filter(edad >= 20 & edad <= 30) %>% 
   select(-edad) %>%
-  #Uniendo columnas de area y nivel de educacion para formar categorias para el grafico
-  unite("Categorias", sexo:nivelEdu, sep = "-", remove = T) %>% 
   #Agrupando por categorias y edad para calcular numero de personas totales en cada grupo 
-  group_by(area, Categorias) %>% 
-  summarise(N = n()) %>% 
-  #Desagrupar para completar categorias
-  ungroup() %>%
-  complete(Categorias, nesting(area)) 
+  mutate(nivelEdu = factor(nivelEdu)) %>% 
+  group_by(area, sexo, nivelEdu) %>% 
+  summarise(N = n())
 
 # Graficos ----------------------------------------------------------------
 #Preparando grafico
-PobGps %>% treemap(., index = c("area", "Categorias"), vSize = "N",
-                   fontsize.labels = c(15,12),
-                   fontcolor.labels = c("black", "white"),
-                   bg.labels = "transparent",
-                   align.labels = list(c("center", "center"),
-                                       c("left", "top")),
-                   overlap.labels = 0.5,
-                   border.col = c("black", "white"), 
-                   palette = "Dark2",
-                   title = "Niveles de educación en habitantes de 20 años o más en las Galápagos (2015)")
+g <- PobGps %>% 
+  ggplot(aes(fill = nivelEdu, values = N/10))+
+  geom_waffle(color = "white", size = 0.1, n_rows = 10)+
+  facet_grid(area~sexo)+
+  scale_x_discrete(expand = c(0, 0))+
+  scale_y_discrete(expand = c(0, 0))+
+  labs(title = "Niveles de educación en habitantes de Galápagos entre \n20 y 30 años (2015)",
+       fill = "Nivel de educación")+
+  theme(legend.position = "bottom")+
+  guides(fill = guide_legend(nrow = 3, title.position = "top"))
+
+ggsave("Outputs/Grafico16Waffles.png", g, device = "png", dpi = 300)
+
+
