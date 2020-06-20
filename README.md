@@ -48,4 +48,9 @@ Dia 15 - Dendrograma utilizando datos de peces de manglar de Galapagos
 ![Day 15 - Dendrograma de comunidades de peces de manglar de Galapagos](Outputs/Grafico15Dendrograma.png)  
 
 Dia 16 - Grafico de waffle con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador) 
-![Day 14 - Comparacion de nivel educativo de adultos entre 20 y 30 anios entre generos, y areas rurales y urbanas de las Galapagos (2015)](Outputs/Grafico16Waffles.png)  
+![Day 16 - Comparacion de nivel educativo de adultos entre 20 y 30 anios entre generos, y areas rurales y urbanas de las Galapagos (2015). Cada cuadro representa a 10 habitantes](Outputs/Grafico16Waffles.png)  
+
+Dia 17 - Diagrama interactivo de sankey con datos de censos de peces de manglar de Galapagos
+Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de figura.
+![Day 17 - Composicion de poblacion de peces por sitio muestreado](Outputs/Grafico17Sankey.png)
+[Grafico interactivo disponible aqui]('./Outputs/Grafico17Sankey.html')  
