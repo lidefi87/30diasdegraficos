@@ -68,3 +68,6 @@ Dia 20 - Diagrama de redes con datos INEC (Instituto Nacional de Estadistica y C
 
 Dia 21 - Gráfico de burbujas con anotaciones utilizando datos del World Happiness Report 2019  
 ![Day 21 - Felicidad y Expectativa de vida vs Producto Interno Bruto 2018 con anotaciones ](Outputs/Grafico21Anotaciones.png)  
+
+Dia 22 - Analisis de texto utilizando datos de la pagina web del Proyecto Ecologia de Tiburones de la Fundacion Charles Darwin (FCD)  
+![Day 22 - Nube de palabras del sitio web del Proyecto de Ecologia de Tiburones de la FCD](Outputs/Grafico22Texto.png)  

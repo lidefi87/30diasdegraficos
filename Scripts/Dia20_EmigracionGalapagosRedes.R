@@ -1,4 +1,4 @@
-# Dia 5 de 30 dias de graficos - Diagramas de arco
+# Dia 20 de 30 dias de graficos - Grafico de Redes
 # Grafico basado en datos del INEC - Censo de poblacion y vivienda Galapagos 2015
 # URL: https://www.ecuadorencifras.gob.ec/censo-de-poblacion-y-vivienda-galapagos/
 
