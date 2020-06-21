@@ -61,4 +61,7 @@ Dia 18 - Explorando datos espaciales con el World Happiness Report 2019
 Dia 19 - Grafico interactivo de flujo con datos del Global Shark Attack File (GSAF)   
 Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de figura.
 ![Day 19 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico19Flujo.PNG)
-[Grafico interactivo disponible aqui]('./Outputs/Grafico19Flujo.html') 
+[Grafico interactivo disponible aqui]('./Outputs/Grafico19Flujo.html')  
+
+Dia 20 - Diagrama de redes con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)
+![Day 20 - Emigracion de Galapagueños en el 2015](Outputs/Grafico20Redes.png) 
