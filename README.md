@@ -54,3 +54,6 @@ Dia 17 - Diagrama interactivo de sankey con datos de censos de peces de manglar 
 Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de figura.
 ![Day 17 - Composicion de poblacion de peces por sitio muestreado](Outputs/Grafico17Sankey.PNG)
 [Grafico interactivo disponible aqui]('./Outputs/Grafico17Sankey.html')  
+
+Dia 18 - Explorando datos espaciales con el World Happiness Report 2019  
+![Day 18 - Libertad para tomar decisiones de vida en las Americas (2018)](Outputs/Grafico18DatosEspaciales.png)  
