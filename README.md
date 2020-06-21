@@ -64,4 +64,7 @@ Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de
 [Grafico interactivo disponible aqui]('./Outputs/Grafico19Flujo.html')  
 
 Dia 20 - Diagrama de redes con datos INEC (Instituto Nacional de Estadistica y Censos del Ecuador)
-![Day 20 - Emigracion de Galapagueños en el 2015](Outputs/Grafico20Redes.png) 
+![Day 20 - Emigracion de Galapagueños en el 2015](Outputs/Grafico20Redes.png)  
+
+Dia 21 - Gráfico de burbujas con anotaciones utilizando datos del World Happiness Report 2019  
+![Day 21 - Felicidad y Expectativa de vida vs Producto Interno Bruto 2018 con anotaciones ](Outputs/Grafico21Anotaciones.png)  
