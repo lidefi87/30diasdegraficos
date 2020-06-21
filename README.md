@@ -57,3 +57,8 @@ Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de
 
 Dia 18 - Explorando datos espaciales con el World Happiness Report 2019  
 ![Day 18 - Libertad para tomar decisiones de vida en las Americas (2018)](Outputs/Grafico18DatosEspaciales.png)  
+
+Dia 19 - Grafico interactivo de flujo con datos del Global Shark Attack File (GSAF)   
+Ejemplo de diagrama presentado abajo. Vinculo para grafico interactivo debajo de figura.
+![Day 19 - Numero de encuentros tiburones-humanos entre el 2000 y 2020 en Latinoamerica](Outputs/Grafico19Flujo.PNG)
+[Grafico interactivo disponible aqui]('./Outputs/Grafico19Flujo.html') 
