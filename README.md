@@ -71,4 +71,8 @@ Dia 21 - Gráfico de burbujas con anotaciones utilizando datos del World Happine
 
 Dia 22 - Analisis de texto utilizando datos de la pagina web del Proyecto Ecologia de Tiburones de la Fundacion Charles Darwin (FCD)  
 ![Day 22 - Nube de palabras del sitio web del Proyecto de Ecologia de Tiburones de la FCD](Outputs/Grafico22Texto.png)  
-[Grafico interactivo disponible aqui]('./Outputs/Grafico22Texto.html')  
+[Grafico interactivo disponible aqui]('./Outputs/Grafico22Texto.html')   
+
+Dia 23 - Grafico sunburst con los generos y especies de las familias Lutjanidae y Carcharhinidae encontradas en manglares de Galapagos en el 2014  
+![Day 23 - Grafico sunburst con los generos y especies de las familias Lutjanidae y Carcharhinidae encontradas en manglares de Galapagos en el 2014](Outputs/Grafico23Sunburst.png)  
+[Grafico interactivo disponible aqui]('./Outputs/Grafico23Sunburst.html')  
